@@ -1,5 +1,5 @@
 # N-Puzzle Game 
-*Using A\* Search Algorithm and Object-Oriented Programming*
+*Using A\* Search Algorithm and C Programming*
 
 ## About 15-Puzzle Game
 
